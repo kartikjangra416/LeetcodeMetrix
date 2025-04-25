@@ -6,7 +6,7 @@ Welcome to **LeetMetrics**! This is a responsive, modern landing page built usin
 
 ## 🚀 Live Demo
 
-https://kartikjangra416.github.io/codingpointWebpage/
+https://kartikjangra416.github.io/LeetcodeMetrix/
 
 ## 📸 Preview
 
